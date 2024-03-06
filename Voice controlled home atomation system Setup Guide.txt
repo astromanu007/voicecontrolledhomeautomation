@@ -30,4 +30,4 @@ Change in code:
 - Check the serial monitor to observe if the board is successfully connected to the internet.
 - Upload the code.
 
-Make some changes in this to make it a turning to avoid the black and diffuse and make kit authentic.
+You can purchase the components from websites like Robu.in or Robocraze.com
