@@ -1,0 +1,33 @@
+Components Required:
+
+1. Node ESP8266
+2. 4-channel Relay Board (with wires)
+3. Jumper Wires
+4. Breadboard (optional)
+
+Setting Up Sinric Pro:
+1. Go to Sinric Pro website.
+2. Register a new account.
+3. Go to the devices section and add a device, then save.
+4. You can add 3 devices for free; after that, you need to subscribe.
+5. Note down the Device IDs and Credentials for further use.
+6. That's all in Sinric Pro; we will come back later.
+
+Coding:
+
+You can download code and circuit diagram from the provided link.
+
+1. Open Library Manager (Tools / Manage Libraries).
+2. Search for SinricPro and click Install.
+3. Then install AndroidJson by Benoit Blanchon (minimum Version 6.12.0) and Websockets by Markus Sattler (minimum Version 2.2.0).
+4. Install ESP8266 board in board manager.
+
+Change in code:
+- Provide Your device ID from Sinric Pro.
+- Change your Wi-Fi name & password, then enter your APP_KEY and APP_SECRET.
+- Hit the Upload Button.
+- Connect the board to PC, then open the serial monitor (press reset button in ESP).
+- Check the serial monitor to observe if the board is successfully connected to the internet.
+- Upload the code.
+
+Make some changes in this to make it a turning to avoid the black and diffuse and make kit authentic.
