@@ -1,4 +1,4 @@
-# voicecontrolledhomeautomation 
+# Voice Controlled Home Automation 
 # Voice Controlled Home Automation System by AStromanish
 
 Welcome to the Voice Controlled Home Automation System project by AStromanish! This project utilizes Internet of Things (IoT) and Natural Language Processing (NLP) technologies to enable voice commands for controlling various devices in your home.
